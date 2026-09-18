@@ -1,10 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications and MERN stack projects
-👯 I’m looking to collaborate on Full-Stack, AI/ML, and GenAI projects
-🤝 I’m looking for help with System Design, Backend Scalability, and Advanced AI
-🌱 I’m currently learning React, Node.js, MongoDB, Machine Learning, NLP, and GenAI
-💬 Ask me about MERN Stack, JavaScript, React, Node.js, Python, ML, NLP, and APIs
-⚡ Fun fact: I love turning ideas into real-world projects and learning by building 🚀
+Hi 👋, I'm Souradeep Saha <br>
+🎓 B.Tech CSE (AIML) Student | 💻 MERN Stack Developer | 🤖 AI/ML Enthusiast<br>
+<br>
+🔭 I’m currently working on AI-powered applications and MERN stack projects<br>
+👯 I’m looking to collaborate on Full-Stack, AI/ML, and GenAI projects<br>
+🤝 I’m looking for help with System Design, Backend Scalability, and Advanced AI<br>
+🌱 I’m currently learning React, Node.js, MongoDB, Machine Learning, NLP, and GenAI<br>
+💬 Ask me about MERN Stack, JavaScript, React, Node.js, Python, ML, NLP, and APIs<br>
+⚡ Fun fact: I love turning ideas into real-world projects and learning by building 🚀<br>
 
 
 ## 🌐 Socials:
