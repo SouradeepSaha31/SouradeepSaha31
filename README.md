@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Souradeep Saha <br>
+Hi 👋, I'm Souradeep <br>
 🎓 B.Tech CSE (AIML) Student | 💻 MERN Stack Developer | 🤖 AI/ML Enthusiast<br>
 <br>
 🔭 I’m currently working on AI-powered applications and MERN stack projects<br>
